@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Subtitle hider
-// @description  subtitle hider that can be used everywhere
+// @description  subtitle hider that can be used everywhere by simple press Ctrl+F1
 // @author KamiGim
 // @homepage    https://github.com/KamiGim/Subtitle-Hider
 // @license MIT
